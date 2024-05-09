@@ -1,7 +1,7 @@
 import { Whatsapp } from "iconsax-react";
 import Image from "next/image";
 import Link from "next/link";
-import logoGiolaser from "/public/images/giolaser-logo-alternativa.jpeg";
+import logoGiolaser from "/public/images/giolaser.png";
 
 export default function Home() {
   return (
