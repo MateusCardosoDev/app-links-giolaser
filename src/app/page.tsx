@@ -24,7 +24,7 @@ export default function Home() {
             variant="Outline"
             className="ml-[20px]"
           />
-          <p className="ml-16">Recepção</p>
+          <p className="ml-16 text-white">Recepção</p>
         </Link>
         <Link
           href="https://wa.me//5551989104446"
@@ -36,7 +36,7 @@ export default function Home() {
             variant="Outline"
             className="ml-5"
           />
-          <p className="ml-[53px]">Área técnica</p>
+          <p className="ml-[53px] text-white">Área técnica</p>
         </Link>
         <Link
           href="https://wa.me//5551998822716"
@@ -48,7 +48,7 @@ export default function Home() {
             variant="Outline"
             className="ml-5"
           />
-          <p className="ml-[25px]">Consultoria de Vendas</p>
+          <p className="ml-[25px] text-white">Consultoria de Vendas</p>
         </Link>
       </div>
     </main>
