@@ -36,7 +36,7 @@ export default function Home() {
             variant="Outline"
             className="ml-5"
           />
-          <p className="ml-[53px]">Area técnica</p>
+          <p className="ml-[53px]">Área técnica</p>
         </Link>
         <Link
           href="https://wa.me//5551998822716"
@@ -48,7 +48,7 @@ export default function Home() {
             variant="Outline"
             className="ml-5"
           />
-          <p className="ml-[25px]">Consultora de Vendas</p>
+          <p className="ml-[25px]">Consultoria de Vendas</p>
         </Link>
       </div>
     </main>
