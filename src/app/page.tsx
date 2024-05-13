@@ -27,7 +27,7 @@ export default function Home() {
           <p className="ml-16 text-white">Recepção</p>
         </Link>
         <Link
-          href="https://wa.me//5551989104446"
+          href="https://wa.me//5551990135711"
           className="flex h-14 w-72 rounded-full bg-[#EE82EE] hover:bg-[#BA55D3] hover:transition items-center justify-start"
         >
           <Whatsapp
